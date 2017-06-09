@@ -22,7 +22,7 @@ body {
 /* Header */
 
 header {
-  background: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png') no-repeat center center ;
+  background: url('glasses-bg.png') no-repeat center center ;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
